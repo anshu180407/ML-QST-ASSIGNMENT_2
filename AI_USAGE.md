@@ -16,10 +16,10 @@ final submission.
 
 AI was used for:
 
--   Clarifying assignment requirements and track constraints\
+-   Clarifying assignment requirements and track constraints
 -   Discussing how a Transformer-based model could be applied to
-    classical shadow data\
--   Debugging specific PyTorch errors\
+    classical shadow data
+-   Debugging specific PyTorch errors
 -   Improving the clarity and structure of documentation
 
 All final design decisions and code were reviewed and validated
@@ -31,10 +31,10 @@ To ensure correctness, I:
 
 -   Verified that the reconstructed density matrices satisfy physical
     constraints:
-    -   Trace equal to 1\
-    -   Non-negative eigenvalues\
+    -   Trace equal to 1
+    -   Non-negative eigenvalues
     -   Hermiticity
--   Monitored fidelity and trace distance during training\
+-   Monitored fidelity and trace distance during training
 -   Executed the full pipeline (data generation → training → evaluation)
     multiple times to ensure reproducibility
 
