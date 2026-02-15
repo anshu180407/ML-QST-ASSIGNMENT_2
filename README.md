@@ -6,7 +6,7 @@ This repository contains the implementation for **Assignment 2** of the Machine 
 - **Track Selection**: Track 1 (Classical Shadows)
 - **Model Architecture**: Transformer Encoder
 - **Quibts**: 2-qubit Haar random states
-- **Constraints**: Physical validity (Hermiticity, Positive Semi-Definiteness, Unit Trace) enforced via Cholesky Decomposition ($\rho = LL^\dagger / \text{Tr}(LL^\dagger)$).
+- **Constraints**: Physical validity (Hermiticity, Positive Semi-Definiteness, Unit Trace) enforced via Cholesky Decomposition .
 
 ## Directory Structure
 The project is organized according to the assignment's mandatory structure:
